@@ -220,7 +220,7 @@ model-viewer {
 #formulario {
   max-width: 99%;
   height: 400px;
-  background: url("/assets/img/pform.jpg?h=9d2d60c66926ad0c7f7d00a528bd5b13");
+  background: url("./pform.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
